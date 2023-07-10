@@ -8,7 +8,7 @@ import {
   AppstoreOutlined
 } from "@ant-design/icons";
 import { Link } from "react-router-dom";
-import logo from "../../Assets/logo1.png";
+
 
 const { Sider } = Layout;
 

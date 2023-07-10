@@ -107,7 +107,7 @@ function Login() {
                           Remember me
                         </label>
                       </div>
-                      <a href="#" style={{ color: "#FF914D", fontFamily: 'Agrandir', fontWeight: 'bold', marginLeft: '1rem' }}>
+                      <a href="/" style={{ color: "#FF914D", fontFamily: 'Agrandir', fontWeight: 'bold', marginLeft: '1rem' }}>
                         Forgot Password?
                       </a>
                     </div>

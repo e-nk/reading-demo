@@ -107,9 +107,9 @@ function AdminLogin() {
                           Remember me
                         </label>
                       </div>
-                      <a href="#" style={{ color: "#FF914D", fontFamily: 'Agrandir', fontWeight: 'bold', marginLeft: '1rem' }}>
+                      {/* <a href="#" style={{ color: "#FF914D", fontFamily: 'Agrandir', fontWeight: 'bold', marginLeft: '1rem' }}>
                         Forgot Password?
-                      </a>
+                      </a>*/}
                     </div>
                     <div className="d-grid gap-2">
                       <button type="submit" className="btn btn-primary" style={{ backgroundColor: "#5CE3D4", fontFamily: 'Agrandir', fontWeight: 'bold' }}>

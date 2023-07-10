@@ -1,0 +1,29 @@
+.hidden-menu {
+    display: none;
+  }
+  
+  .menu-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .drawer-button {
+    display: none;
+  }
+  
+  @media (max-width: 768px) {
+    .hidden-menu {
+      display: block;
+    }
+  
+    .menu-container {
+      justify-content: flex-start;
+    }
+  
+    .drawer-button {
+      display: block;
+      cursor: pointer;
+    }
+  }
+  
